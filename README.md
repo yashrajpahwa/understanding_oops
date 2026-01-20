@@ -14,5 +14,3 @@ Each folder corresponds to a specific lab session and contains distinct C++ sour
 | Lab Session | Topic / Description                                              |          Link          |
 | :---------- | :--------------------------------------------------------------- | :--------------------: |
 | **Lab 1**   | Fundamentals of C++: Input/Output, Operators, Control Structures | [ Open](lab-1_basics/) |
-
----
