@@ -16,10 +16,3 @@ Each folder corresponds to a specific lab session and contains distinct C++ sour
 | **Lab 1**   | Fundamentals of C++: Input/Output, Operators, Control Structures | [ Open](lab-1_basics/) |
 
 ---
-
-### Navigation Note
-
-- Click on the folders in the table above to navigate directly to the source code for each session.
-- Files are named strictly according to question numbers for ease of verification.
-
-_Submitted for review._
