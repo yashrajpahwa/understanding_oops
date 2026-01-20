@@ -1,0 +1,49 @@
+Output for q2.cpp
+Enter integer: 10
+Enter decimal: 15.5
+Enter character: A
+Integer: 10
+Decimal: 15.5
+Character: A
+
+Output for q3.cpp
+Enter two numbers: 20 5
+Sum: 25
+Difference: 15
+Product: 100
+Quotient: 4
+
+Output for q4.cpp
+Enter temperature in Celsius: 25
+Temperature in Fahrenheit: 77
+
+Output for q5.cpp
+Line 1
+Line 2
+TabSeparated
+Backspace
+  Width 10
+
+Output for q6.cpp
+Initial value: 10
+After += 5: 15
+After -= 3: 12
+
+Output for q7.cpp
+Enter two numbers: 12 25
+Before swapping: a = 12, b = 25
+After swapping: a = 25, b = 12
+
+Output for q8.cpp
+Enter number of days late: 6
+Fine: 1 rupee
+
+Output for q9.cpp
+Enter two numbers: 50 10
+Enter operator (+, -, *, /): -
+Result: 40
+
+Output for q10.cpp
+Enter a number: 17
+Odd (using if-else)
+Odd (using conditional)
