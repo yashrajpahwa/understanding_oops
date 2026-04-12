@@ -1,0 +1,2 @@
+This file contains some written content.
+Everything written here should be displayed on the output console.
